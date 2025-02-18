@@ -1,0 +1,36 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\components\\IconPaths.ts\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\components\\MainHead.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\components\\Nav.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\components\\Skills.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\components\\ContactCTA.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\layouts\\BaseLayout.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\pages\\index.astro\\",
+            "color": "foldercolorizer.color_cc0066"
+        },
+        {
+            "folderPath": "sidd-astro-portfolio\\src\\styles\\global.css\\",
+            "color": "foldercolorizer.color_cc0066"
+        }
+    ]
+}
